@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment secrets
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Node (used temporarily for tooling)
+node_modules/
+package-lock.json
+
+# Editor
+.cursor/
+*.swp
+*.swo
+
+# Temp files
+assets/_tmp_shots/
+assets/_readme_*.png
+assets/_readme_*.html
+_readme_preview.html

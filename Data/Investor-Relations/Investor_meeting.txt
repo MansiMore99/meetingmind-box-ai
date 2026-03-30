@@ -1,0 +1,9 @@
+Sarah: Alright team, Q3 numbers are in. ARR hit $6.2M, up 18% quarter over quarter. Gross margin improved to 74%. Customer churn dropped to 1.2% from 2.8% last quarter Ñ that is a significant improvement. Our NPS score is now 67, up from 52.
+
+John: Investors are happy with the trajectory. The Series A lead, Sequoia, is asking us to finalize terms by end of Q4. They are proposing $15M at $60M pre-money valuation. Secondary investor Andreessen wants co-lead status.
+
+Sarah: We need board approval before we can proceed. Legal has the term sheet draft ready. CFO needs to finalize the cap table to reflect the new round. We are also targeting Series B for Q2 2026 at $30M and $200M valuation.
+
+John: Action items: one Ñ John to finalize cap table by Friday. Two Ñ Sarah to schedule board call for next week. Three Ñ legal team to complete term sheet review by Thursday. Four Ñ CFO to prepare dilution analysis for all existing shareholders.
+
+Sarah: Also flag Ñ we need to hire 8 more engineers, specifically ML team. Current headcount is 18. Tech stack remains Python, FastAPI, TensorFlow, PostgreSQL, AWS.

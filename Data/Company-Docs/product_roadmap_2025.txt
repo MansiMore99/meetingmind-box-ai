@@ -1,0 +1,27 @@
+NeuralPay Product Roadmap 2025
+
+Q1 2025 (Jan-Mar)
+- Launch real-time fraud detection API v2.0
+- Add support for international payment networks (SEPA, UPI)
+- Expand merchant dashboard with customizable risk scoring
+- Team size: 12 engineers, 3 PMs
+
+Q2 2025 (Apr-Jun)
+- Release AI-powered chargeback prevention system
+- Integrate with Stripe, Square, and Adyen
+- Beta test adaptive authentication for high-risk transactions
+- Onboard 50 enterprise merchants (target $2M ARR)
+
+Q3 2025 (Jul-Sep)
+- Ship transaction anomaly detection using graph neural networks
+- Launch developer portal with API documentation and SDKs (Python, Node.js, Go)
+- Add explainability layer for compliance teams
+- Achieve SOC 2 Type II certification
+
+Q4 2025 (Oct-Dec)
+- General availability of full NeuralPay Intelligence Suite
+- Add multi-currency support for 30+ currencies
+- Partner with 3 major payment processors
+- Target 200 active merchants, $8M ARR by year-end
+
+Technical Stack: Python, FastAPI, TensorFlow, PostgreSQL, Redis, Kafka, AWS

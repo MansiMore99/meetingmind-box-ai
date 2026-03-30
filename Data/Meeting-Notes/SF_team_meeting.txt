@@ -1,0 +1,7 @@
+Dev 1 (Raj): Completed OAuth flow implementation yesterday. PR is up for review, all unit tests passing. Blocked on staging environment access Ñ need DevOps to provision credentials.
+
+Dev 2 (Lisa): Finished unit tests for the Files API wrapper. 47 tests, all passing. Started working on the Folders API integration. ETA end of week.
+
+Dev 3 (Marcus): Investigating CORS issue on the mobile client. Root cause identified Ñ missing headers in the preflight response. Fix is ready, submitting PR this afternoon.
+
+Lead (Anita): Good progress team. Action items: Raj, I will get you staging access by EOD today Ñ I will ping DevOps now. Marcus, CORS fix must be merged before Thursday code freeze. Lisa, flag me if Folders API integration needs any Box SDK clarification. Team reminder: code freeze is Thursday 5pm, no exceptions. Release is Monday.
