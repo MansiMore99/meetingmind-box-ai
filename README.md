@@ -1,6 +1,6 @@
 # 🔐 MeetingMind
 
-### Confidential Meeting Intelligence Platform — Powered by Box AI + Anthropic Claude
+### Confidential Meeting Intelligence Platform: Powered by Box AI + Anthropic Claude
 
 <div align="center">
 
@@ -211,18 +211,17 @@ Result returned to frontend
   <a href="https://www.linkedin.com/in/mansimore9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MansiMore99">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+ <a href="https://mansimore.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://medium.com/@mansi.more943">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://x.com/MansiMore99">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.youtube.com/@tech_girl-m9">
+  <a href="https://www.youtube.com/@tech-girl-mm">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
-<sub>MIT License © 2026 Mansi More</sub>
